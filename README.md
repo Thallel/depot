@@ -21,7 +21,7 @@ The same of the book.
 
 * Database initialization
 
-The same of the book.
+As the book does.
 
 * How to run the test suite
 
